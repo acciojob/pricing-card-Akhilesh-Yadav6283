@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.main-container{
+	width:300px;
+	padding:10px;
+	background-color:#f1f1f1;
+	box-shadow:2px 2px 5px 5px #f1f1f1
+}
+.btn{
+	padding:10px;
+	background-color:#fe625a;
+	color:white;
+	border-radius:10px;
+	border:none;
+	
+}
